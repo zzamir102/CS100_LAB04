@@ -66,3 +66,4 @@ void PersonList::printLineage(const char* person){
     }
     cout << endl << person << " is not in the list!" << endl;
 }
+
